@@ -1,0 +1,3 @@
+[2026-05-02 06:44:31] http://localhost/ojs
+[2026-05-02 06:44:31] [Notice] Task process started.
+[2026-05-02 06:44:31] [Error] The directory /Applications/XAMPP/xamppfiles/htdocs/ojs/files/usageStats/processing is not empty. This could indicate a previously failed process, or a concurrently running process. This file will be automatically reprocessed if you are also using scheduledTasksAutoStage.xml, otherwise you will need to manually move any orphaned files in the processing directory back into the stage directory.
