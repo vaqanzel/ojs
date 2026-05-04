@@ -10,10 +10,9 @@
  *}
 {if !$contentOnly}
 	{include file="frontend/components/header.tpl" pageTitle=$pageTitle}
-	<link rel="stylesheet" href="{$baseUrl}/styles/reviewer-guidelines.css" type="text/css" />
 {/if}
 
-<div class="page page_information page_reviewer_guidelines">
+<div class="page page_information">
 	{include file="frontend/components/breadcrumbs.tpl" currentTitleKey=$pageTitle}
 	<h1>
 		{translate key=$pageTitle}

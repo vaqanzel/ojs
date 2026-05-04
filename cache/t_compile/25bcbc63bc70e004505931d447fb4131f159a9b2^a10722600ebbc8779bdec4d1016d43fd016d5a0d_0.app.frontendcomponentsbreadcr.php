@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2026-05-02 07:12:39
+/* Smarty version 3.1.39, created on 2026-05-04 07:29:19
   from 'app:frontendcomponentsbreadcr' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_69f587c72ae952_30000130',
+  'unifunc' => 'content_69f82eaf0f3087_73862328',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_69f587c72ae952_30000130 (Smarty_Internal_Template $_smarty_tpl) {
+function content_69f82eaf0f3087_73862328 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <nav class="cmp_breadcrumbs" role="navigation" aria-label="<?php echo call_user_func_array( $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['translate'][0], array( array('key'=>"navigation.breadcrumbLabel"),$_smarty_tpl ) );?>
 ">
